@@ -34,6 +34,9 @@ Before running the project, ensure you have the following installed:
 
 📂 Project Structure
 
+![image](https://github.com/user-attachments/assets/dd115470-1e9f-4a1c-9d6c-8452f8e43da9)
+
+
 📜 Explanation of Functionality
 
 🔹 Page Object Model (POM): Each page has a corresponding class in pageObjects/ that contains locators and methods.<br/>
@@ -46,6 +49,7 @@ Before running the project, ensure you have the following installed:
 🛠 Troubleshooting
 
 If you encounter issues:
+
 🔹 Ensure the correct Java version is installed.<br/>
 🔹 Run mvn clean install to resolve dependency issues.<br/>
 🔹 Check logs in logs/ for errors.<br/>
