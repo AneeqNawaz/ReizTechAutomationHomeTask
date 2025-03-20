@@ -28,7 +28,7 @@ Before running the project, ensure you have the following installed:
 
     mvn test
 
-📊 Reports & Logs
+📊 Reports, Screenshots & Logs
 
     Not Implemented
 
